@@ -1,3 +1,4 @@
+# Переписаний код із використанням графів
 def graph(matrix):
     n = len(matrix)
     m = len(matrix[0])
